@@ -6,7 +6,8 @@ hotel data csv.csv: Dataset (Kaggle) containing cluster number.
 
 REFERENCES:
 
-Dataset: Kaggle.com (https://www.kaggle.com/datasets/hariharanpavan/bank-marketing-dataset-analysis-classification)
-Code Reference: medium.com, geekforgeeks.com
-Google: analytixlabs.co.in, scikit-learn.org
-Other References: chatgpt
+
+- Dataset: Kaggle.com , https://www.kaggle.com/datasets/nantonio/a-hotels-customers-dataset 
+- Code Reference: medium.com, geekforgeeks.com
+- Google: analytixlabs.co.in, scikit-learn.org
+- Other References: chatgpt
